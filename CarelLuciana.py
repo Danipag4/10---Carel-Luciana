@@ -28,7 +28,7 @@ st.sidebar.write("""
 """ )
 
 st.sidebar.write("""
-## Erika Fioravante Devechio
+## Luciana Favaro
 """ )
 
 Nome = st.sidebar.selectbox("Colaboradores",df["Colab"].unique())
